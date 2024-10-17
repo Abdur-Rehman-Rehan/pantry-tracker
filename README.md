@@ -1,6 +1,6 @@
 ## About
 
-This is a [Next.js](https://nextjs.org/) project for Tracking Pantry. Access the deployed version [here](https://pantry-tracker.rehantech.me/)
+This is a [Next.js](https://nextjs.org/) project for Tracking Pantry. Access the deployed version [here](https://pantry-tracker.rehantech.me/) Watch Video Demo [here](https://youtu.be/QNTveJPzaoo).
 
 ## Getting Started
 
